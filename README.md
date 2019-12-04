@@ -10,7 +10,7 @@ We're a small team of <10 devs trying to improve our efficiency.
 * Meet weekly on a Monday to kick things off and review progress
 * Meetings should have a focus on brevity
 * We handle our daily standups through Slack
-  * A few bullet points on: What did I do yesterday/What is my goal for today
+  * A few bullet points on: What did I do yesterday/What is my goal for today/Anything currently blocking me
 
 **Our sprint board columns**
 
