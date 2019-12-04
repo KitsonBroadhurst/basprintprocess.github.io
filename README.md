@@ -7,7 +7,7 @@ We're a small team of <10 devs trying to improve our efficiency.
 **Top Level Rules:**
 * Cards are bundled into a 2 week "Sprint"
 * Production bugs can be added mid-sprint
-* Meet weekly on a Monday to kick things off and review progress
+* Meet weekly on a Tuesday to kick things off and review progress (Monday can be a little hectic)
 * Meetings should have a focus on brevity
 * We handle our daily standups through Slack
   * A few bullet points on: What did I do yesterday/What is my goal for today
